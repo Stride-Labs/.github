@@ -3,11 +3,10 @@
 Check out our repos 👇
 
 ## stride
-This repo contains our core blockchain code.
+our core blockchain code
 
 ## explorer
-This is our block explorer, based on ping.pub. 
+our local block explorer, a fork of ping.pub
 
 ## testnet
-Follow the instructions in this repo to join our public testnet.
-
+instructions to run a node on our testnet
