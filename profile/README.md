@@ -10,3 +10,6 @@ our local block explorer, a fork of ping.pub
 
 ## testnet
 instructions to run a node on our testnet
+
+## firehose
+simulation testing
